@@ -10,5 +10,4 @@
 #### ✔️ Python Developer
 #### ✔️ Wordpress Developer 
 #### ✔️ Cyber security 
-#### ✔️ Data science
 #### ✔️ machine learning
