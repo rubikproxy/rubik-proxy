@@ -3,7 +3,7 @@
 
 
 # 🧍 rubik-proxy
-#### 🎓 Information Iechnology student
+#### 🎓 Information Technology student
 #### 🎓 Ethical Hacker
 
 #  💻 Expertise
