@@ -4,7 +4,7 @@
 
 # 🧍 rubik-proxy
 #### 🎓 Information Technology student
-#### 🎓 Ethical Hacker(penetration tester)
+#### 🎓 Ethical Hacker(Penetration Tester)
 
 #  💻 Expertise
 #### ✔️ Python Developer
