@@ -26,8 +26,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/rubikpro"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="rubikpro" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rubik-proxy&show_icons=true&locale=en&layout=compact" alt="rubik-proxy" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rubik-proxy&show_icons=true&locale=en" alt="rubik-proxy" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rubik-proxy&" alt="rubik-proxy" /></p>
