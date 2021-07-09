@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **mrblackhat4545@gmail.com**
 
-- ⚡ Free consultaion call **https://calendly.com/rubik_proxy/30min**
+- ⚡ Free consultaion call **https://calendly.com/rubik_proxy/15min**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
